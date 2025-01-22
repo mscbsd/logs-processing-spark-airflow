@@ -1,0 +1,7 @@
+apache-airflow
+boto3
+pandas
+pyspark
+pendulum
+psycopg2  # Se você estiver usando PostgreSQL
+cx-Oracle # Se você estiver usando Oracle
